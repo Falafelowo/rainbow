@@ -1,0 +1,10 @@
+{
+	"token": "process.env.BOT_TOKEN",
+	"servers": [
+		"635053105855332352"
+	],
+	"roleName": "Rainbow",
+	"colors": 12,
+	"speed": 600,
+	"logging": true
+}
